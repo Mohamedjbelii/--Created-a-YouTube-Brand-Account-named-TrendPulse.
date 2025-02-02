@@ -31,3 +31,18 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven / Gradle
+*.log
+target/
+build/
+
+# Environment-specific
+.env
+
+# OS-specific
+Thumbs.db          # Windows
